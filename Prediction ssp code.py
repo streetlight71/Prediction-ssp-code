@@ -15,7 +15,7 @@ Inputs:
     - Annual MRIO CSV matrices (one file per year, filename must contain a
       4-digit year, e.g. Z_2015.csv)
     - Historical GDP/population CSV  (columns: country, year, Population, gdp)
-    - SSP2 scenario GDP/population CSV  (same column structure, future years)
+    - SSP scenario GDP/population CSV  (same column structure, future years)
     - Static country-level feature CSV  (economic status, trade bloc, etc.)
 
 Outputs:
